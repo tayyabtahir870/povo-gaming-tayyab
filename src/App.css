@@ -1,0 +1,79 @@
+.navfontcolor {
+  color: white;
+  font-size: 1rem;
+}
+.navback-color {
+  background-color: #2d061b;
+}
+.btnborder {
+  border-radius: 0px !important;
+  background-color: #c62828 !important;
+}
+.footerbackgroudcolor {
+  background-color: #2d061b;
+}
+.friendsbackcolor {
+  background-color: #000000;
+}
+
+.fontcolor {
+  color: white;
+}
+body {
+  overflow-x: hidden;
+  transition: all 0.2s linear;
+  width: 100% !important;
+  scroll-behavior: smooth;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("Media/background.jpg") fixed no-repeat;
+  background-size: cover;
+  transition: all 0.2s linear !important;
+}
+
+.missionbackpic{
+  background-image: url('Media/mission.jpg');
+  background-size: cover;
+  
+
+}
+.mission{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.fontsize1{
+  font-size: 3rem;
+  
+}
+.visionpic{
+  background-image: url('Media/reddiamond.jpg');
+}
+.rugpulpicback{
+ 
+  background: url('Media/rugpul.png') no-repeat 50%;
+    background-size: cover;
+    padding-top: 60px!important;
+    padding-bottom: 70px!important;
+    width: 100%;
+}
+.rugpul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fontcolor1{
+  color: white;
+  font-size: 1.3rem;
+}
+.stackingcolor{
+  background-color: #2D061B;
+}
+.fontcolorforms{
+  color: white;
+  font-size: 2rem;
+}
