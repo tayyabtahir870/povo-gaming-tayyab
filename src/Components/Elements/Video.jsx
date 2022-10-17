@@ -4,7 +4,7 @@ function Video() {
   return (
     <div className="bg-black">
       <video
-        autoplay="false"
+        // autoplay="false"
         controls="true"
         poster="/static/media/video.6da95078.png"
         height="600"

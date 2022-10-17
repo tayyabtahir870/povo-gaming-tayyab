@@ -5,8 +5,8 @@ function Vision() {
     <div className="visionpic">
       <div class="container text-center">
         <div class="row">
-          <div class="col"></div>
-          <div class="col">
+          <div class="col-md-6"></div>
+          <div class="col-md-6">
             <div className="fontsize1 text-start pt-5  ">
               <b style={{ color: "white" }}>Povo </b>{" "}
               <b style={{ color: "#8B0000" }}>Vision</b>{" "}
