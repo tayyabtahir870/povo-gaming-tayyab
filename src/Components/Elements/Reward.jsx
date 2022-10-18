@@ -253,7 +253,7 @@ function Reward() {
                 </Carousel.Item>
               </Carousel>
             </div>
-            <div className="my-3">
+            <div className="my-3 text-center">
               <button className="button1">Token Address</button>
               <span>
                 <input
